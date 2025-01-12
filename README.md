@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋, Nice to Meet you!</h2>
-<p align="left">Welcome to my GitHub profile! I'm a passionate Frontend Engineer. I enjoy building web applications, interactive websites, and contributing to open-source projects. Currently, <b>I'm open to work and employment opportunities</b></p>
+<p align="left">Welcome to my GitHub profile! I'm a passionate Frontend Engineer. I enjoy building web applications, interactive websites, and contributing to open-source projects. Currently, <b>I'm open to work and employment opportunities (Remote and relocation)</b></p>
 
 ## 🌱 About Me
 
