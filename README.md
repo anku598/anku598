@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on [Toffee Live](https://toffeelive.com/en).
 - 👯 I’m open to work and employment opportunities (remote and relocation).
 - 💬 Ask me about **Vue.js, React.js,Nextjs, Nuxtjs, GSAP,**.
-- - 🌱 I’m currently learning **Backend Engineering, Golang, NestJS**.
+- 🌱 I’m currently learning **Backend Engineering, Golang, NestJS**.
 - 📫 I am just one mail away: [anik598@gmail.com](mailto:anik598@gmail.com).
 - ⚡ Fun fact: I am a bike enthusiast and love to travel with my motorcycle.
 
